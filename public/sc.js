@@ -1,0 +1,1 @@
+console.log('script added from the public folder...')
